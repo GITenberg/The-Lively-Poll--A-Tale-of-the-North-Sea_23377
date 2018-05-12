@@ -1,0 +1,35 @@
+_repo: The-Lively-Poll--A-Tale-of-the-North-Sea_23377
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ballantyne, R. M. (Robert Michael)
+    alias: Ballantyne, Robert Michael
+    birthdate: 1825
+    deathdate: 1894
+    gutenberg_agent_id: '333'
+    url: http://www.gutenberg.org/2009/agents/333
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
+description: Manx Bradley, admiral of 200 fishing vessels in the North Sea, is concerned
+  about the spiritual needs of his men.
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Royal National Mission to Deep Sea Fishermen -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Fishers -- Religious life -- Fiction'
+- !lcsh 'Fishers -- Great Britain -- Fiction'
+- !lcsh 'Missions -- Great Britain -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+title: 'The Lively Poll: A Tale of the North Sea'
+url: http://www.gutenberg.org/ebooks/23377
